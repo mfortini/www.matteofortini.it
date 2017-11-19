@@ -38,6 +38,11 @@
   class: icon-instagram
   title: ""
 
+#- name: Mapillary
+#  url: http://mapillary/mfortini
+#  class: icon-mapillary
+#  title: "Mapillary"
+
 # - name: Pinterest
 #   url: http://www.pinterest.com/
 #   class: icon-pinterest

@@ -17,7 +17,7 @@ slogan: 'Open-[data|source], civic hacking, politica locale'
 description: 'Un posto dove tenere traccia di idee, eventi, pensieri, cose interessanti'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Oggi <a href="www.matteofortini.it">matteofortini.it</a> è creato con <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> e basato su <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p><a href="www.matteofortini.it">matteofortini.it</a> è creato con <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, basato su <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> e salvato su <a href="https://www.github.com">GitHub</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
