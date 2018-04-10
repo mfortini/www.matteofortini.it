@@ -17,10 +17,11 @@ tags:
 # Styling
 #
 header:
-  image_fullwidth: "/images/2018-03-24-UnaCittaInFesta/DaTeTaglioNastro.jpg"
+  image_fullwidth: "/2018-03-24-UnaCittaInFesta/DaTeTaglioNastro.jpg"
 
 image:
-  title: "/images/2018-03-24-UnaCittaInFesta/DaTeTaglioNastro.jpg"
+  title: "/2018-03-24-UnaCittaInFesta/DaTeTaglioNastro.jpg"
+  thumb: "/2018-03-24-UnaCittaInFesta/DaTeTaglioNastro-thumb.jpg"
   caption: ""
   caption_url: ""
 
