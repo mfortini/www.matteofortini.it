@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: ""
+subheadline: "Eventi"
 title: "Una città in festa"
 teaser: "Riapre San Biagio dopo il terremoto e nasce la sala Da Tè"
 meta_description: "Riapre San Biagio dopo il terremoto e nasce la sala Da Tè"
