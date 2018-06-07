@@ -9,12 +9,13 @@ teaser: ""
 meta_description: ""
 categories: 
   - "civic hacking"
-  - pubblica amministrazione
 tags:
   - terremotocentroitalia
   - terremoto
   - pasocialday
   - pasocial
+  - PA
+  - "pubblica amministrazione"
 
 #
 # Styling
