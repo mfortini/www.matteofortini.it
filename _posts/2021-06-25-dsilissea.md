@@ -15,7 +15,7 @@ image:
 ---
 
 <p>La dislessia fa parte dei disturbi specifici dell’apprendimento o DSA (manuale DSM-5) ed è una condizione caratterizzata da problemi con la lettura e la diagnosi che si formula è indipendente dall’intelligenza della persona. Diverse persone ne sono colpite in misura diversa; i problemi possono includere difficoltà nella pronuncia delle parole, nella lettura veloce, nella scrittura a mano, nella pronuncia delle parole durante la lettura ad alta voce e nella comprensione di ciò che si legge. Spesso queste difficoltà vengono notate inizialmente a scuola. In caso di compromissione totale delle capacità di lettura si parla di alessia. Le difficoltà sono involontarie e le persone con questo disturbo hanno un normale desiderio di apprendimento.</p>*Fonte: [Wikipedia](https://it.wikipedia.org/wiki/Dislessia)*
-<p>Nel brano sottostante si è voluto creare un esempio dell'esperienza di lettura di una persona affetta da questo distubo</p>
+<p>Nel brano sottostante si è voluto creare un esempio dell'esperienza di lettura di una persona affetta da questo disturbo</p>
 
 <div id="dislessiatext">
 <blockquote>
